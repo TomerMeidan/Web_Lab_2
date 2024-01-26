@@ -1,0 +1,36 @@
+
+table { 
+    margin-left: auto; 
+    margin-right: auto;
+    border: none;
+    padding: 0;
+}
+
+th, td {
+    border: none;
+    padding: 0;
+}
+
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+  
+input[type="button"] { 
+    width: 100%; 
+    padding: 15px 30px; 
+    background-color: lightseagreen; 
+    border-radius: 10px; 
+    border: 2px solid black; 
+    color: black; 
+    font-size: 30px; 
+    font-weight: bold; 
+} 
+  
+input[type="text"] {width: 100%;
+    padding: 20px 20px; 
+    border-radius: 10px; 
+    border: 2px solid black; 
+    font-size: 24px; 
+    font-weight: bold; 
+} 
